@@ -110,5 +110,9 @@ section {
     width: 100%;
     justify-content: space-between;
     bottom: 0;
-    gap: 50;
+    gap: 50px;
+}
+
+.parrafo3 {
+    padding: 10px;
 }
